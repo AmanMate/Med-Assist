@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976108169344",
+    "project_id": "fitness-64201",
+    "storage_bucket": "fitness-64201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976108169344:android:ce9835db8956a267bc9e65",
+        "android_client_info": {
+          "package_name": "com.example.ifitcoach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976108169344-7d6e7jt7bj681oip2po26vvrjqfa9uah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6phcPLDAWGIZMr0YHmdm0pc1NuNss18s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976108169344-7d6e7jt7bj681oip2po26vvrjqfa9uah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
